@@ -1,0 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3, 1fr);
+    border: 1px solid black;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+};
+
+.grid-box{
+    border: 1px solid black;
+    color: blue;
+};
