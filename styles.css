@@ -6,9 +6,9 @@
     height: 400px;
     width: 400px;
     text-align: center;
+    margin-top: 30px
 };
 
 .grid-box{
     border: 1px solid black;
-    color: blue;
 };
